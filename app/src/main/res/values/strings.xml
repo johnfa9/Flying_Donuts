@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flying Donuts</string>
+    <string name="password">Enter Password</string>
+    <string name="email">Enter Email</string>
+    <string name="birth_date">Enter Birth Date</string>
+    <string name="last_name">Enter Last Name</string>
+    <string name="first_name">Enter First Name</string>
+</resources>
